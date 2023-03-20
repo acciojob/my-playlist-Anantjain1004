@@ -44,3 +44,6 @@
         align-items: flex-end;
         flex-grow: 2;
       }
+     li {
+        list-style: none;
+      } 
